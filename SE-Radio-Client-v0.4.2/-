@@ -1,0 +1,12 @@
+        self.root.bind("<KeyPress>", self._on_key_press, add="+")
+        self.root.bind("<KeyRelease>", self._on_key_release, add="+")
+        self.root.bind("<ButtonPress>", self._on_mouse_press, add="+")
+        self.root.bind("<ButtonRelease>", self._on_mouse_release, add="+")
+
+        # Global hotkeys
+        self.global_keys = GlobalKeyListener(self)
+        try: self.sounds.ensure_init()
+        except Exception: pass
+        try: self.global_keys.start()
+        except Exception: pass
+

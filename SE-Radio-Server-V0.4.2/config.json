@@ -1,0 +1,21 @@
+{
+  "host": "0.0.0.0",
+  "port": 8765,
+  "path": "/radio",
+  "channels": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "frame_ms": 20,
+  "sample_rate": 48000,
+  "samples_per_frame": 960,
+  "dev_mode": true,
+  "max_clients": 200,
+  "mixing": {
+    "enabled": true,
+    "capture_effect": false,
+    "limit": true
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "ptt_combo": "CapsLock",
+  "ptt_mode": "hold",
+  "device_scan": {
+    "timestamp": 1760379788,
+    "inputs": [
+      {
+        "index": 0,
+        "label": "0: Microsoft Sound Mapper - Input"
+      },
+      {
+        "index": 1,
+        "label": "1: Microphone Array (Realtek(R) Au"
+      },
+      {
+        "index": 2,
+        "label": "2: Headset (onn. True Wireless ENC"
+      },
+      {
+        "index": 7,
+        "label": "7: Primary Sound Capture Driver"
+      },
+      {
+        "index": 8,
+        "label": "8: Microphone Array (Realtek(R) Audio)"
+      },
+      {
+        "index": 9,
+        "label": "9: Headset (onn. True Wireless ENC)"
+      },
+      {
+        "index": 18,
+        "label": "18: Microphone Array (Realtek(R) Audio)"
+      }
+    ],
+    "outputs": [
+      {
+        "index": 3,
+        "label": "3: Microsoft Sound Mapper - Output"
+      },
+      {
+        "index": 4,
+        "label": "4: Headphones (onn. True Wireless "
+      },
+      {
+        "index": 5,
+        "label": "5: Speakers (Realtek(R) Audio)"
+      },
+      {
+        "index": 6,
+        "label": "6: ASUS XG49V (3- HD Audio Driver "
+      },
+      {
+        "index": 10,
+        "label": "10: Primary Sound Driver"
+      },
+      {
+        "index": 11,
+        "label": "11: Headphones (onn. True Wireless ENC)"
+      },
+      {
+        "index": 12,
+        "label": "12: Speakers (Realtek(R) Audio)"
+      },
+      {
+        "index": 13,
+        "label": "13: ASUS XG49V (3- HD Audio Driver for Display Audio)"
+      },
+      {
+        "index": 14,
+        "label": "14: Headphones (onn. True Wireless ENC)"
+      },
+      {
+        "index": 15,
+        "label": "15: Speakers (Realtek(R) Audio)"
+      },
+      {
+        "index": 16,
+        "label": "16: ASUS XG49V (3- HD Audio Driver for Display Audio)"
+      }
+    ]
+  },
+  "selected_devices": {
+    "input_label": "Default",
+    "output_label": "Default"
+  },
+  "next_combo": "Alt+W",
+  "prev_combo": "Alt+S",
+  "channels": [
+    "102.3",
+    "505.5",
+    "365.8"
+  ],
+  "active_channel_index": 0,
+  "server": {
+    "ip": "68.44.24.179",
+    "port": "8765"
+  },
+  "steam": {
+    "input": "76561198124968328"
+  },
+  "scan_flags": [
+    true,
+    true,
+    false
+  ],
+  "sfx_volume": 0.16,
+  "channel_volumes": [
+    100,
+    100,
+    90
+  ],
+  "vol_up_combo": "F8",
+  "vol_down_combo": "F9",
+  "overlay_geometry": "600x200+1844+210",
+  "overlay_opacity": 1.0,
+  "overlay_lock": false,
+  "channel_d": {
+    "freq": "111.1",
+    "scan": true,
+    "volume": 100
+  },
+  "scan": {
+    "A": false,
+    "B": false,
+    "C": false,
+    "D": true
+  },
+  "volumes": {
+    "A": 100,
+    "B": 100,
+    "C": 100,
+    "D": 60
+  },
+  "active_chan": 3,
+  "network": "default",
+  "server_ip": "68.44.24.179 ",
+  "server_port": 8765,
+  "ssrc": 185366719,
+  "steam_ssrc": "76561198124968328",
+  "ptt_combos": [
+    "CapsLock",
+    "Joy4Btn5"
+  ],
+  "next_combos": [
+    "Alt+W",
+    "Joy4Btn9"
+  ],
+  "prev_combos": [
+    "Alt+S",
+    "Joy4Btn7"
+  ],
+  "vol_up_combos": [
+    "F8"
+  ],
+  "vol_down_combos": [
+    "F9"
+  ],
+  "ui_theme": "dark",
+  "chan_a_combos": [],
+  "chan_b_combos": [],
+  "chan_c_combos": [],
+  "chan_d_combos": [],
+  "chan_a_combo": "",
+  "chan_b_combo": "",
+  "chan_c_combo": "",
+  "chan_d_combo": "",
+  "ignored_inputs": [
+    "JoyBtn13",
+    "JoyBtn37"
+  ],
+  "joystick_poller_enabled": true
+}

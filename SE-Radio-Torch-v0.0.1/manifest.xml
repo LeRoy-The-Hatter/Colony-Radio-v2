@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Colony Radio</Name>
+  <Guid>dcdf44b8-105a-4640-961c-7cf8c4ab8f85</Guid>
+  <Version>0.0.1</Version>
+  <Dependencies />
+</PluginManifest>

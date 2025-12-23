@@ -1,0 +1,9 @@
+{
+  "sample_rate": 48000,
+  "frame_ms": 20,
+  "channels": 1,
+  "device_input": null,
+  "device_output": null,
+  "ws_url": "wss://localhost:8443/ws",
+  "ptt_mode": "hold"
+}

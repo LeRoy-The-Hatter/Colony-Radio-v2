@@ -1,0 +1,64 @@
+{
+  "channel_d": {
+    "freq": "111.1",
+    "scan": true,
+    "volume": 50
+  },
+  "selected_devices": {
+    "input_label": "Default",
+    "output_label": "Default"
+  },
+  "ptt_mode": "hold",
+  "ptt_combos": [
+    "Joy4Btn5",
+    "CapsLock"
+  ],
+  "next_combos": [
+    "Joy4Btn9"
+  ],
+  "prev_combos": [
+    "Joy4Btn7"
+  ],
+  "vol_up_combos": [
+    "F8"
+  ],
+  "vol_down_combos": [
+    "F9"
+  ],
+  "ptt_combo": "Joy4Btn5",
+  "next_combo": "Joy4Btn9",
+  "prev_combo": "Joy4Btn7",
+  "vol_up_combo": "F8",
+  "vol_down_combo": "F9",
+  "channels": [
+    "222.2",
+    "102.3",
+    "000.0"
+  ],
+  "scan_flags": [
+    false,
+    false,
+    false
+  ],
+  "channel_volumes": [
+    50,
+    100,
+    100
+  ],
+  "active_channel_index": 1,
+  "server": {
+    "ip": "68.44.24.179",
+    "port": "8765"
+  },
+  "steam_ssrc": "76561198124968328",
+  "ui_theme": "dark",
+  "sfx_volume": 0.24,
+  "chan_a_combos": [],
+  "chan_b_combos": [],
+  "chan_c_combos": [],
+  "chan_d_combos": [],
+  "chan_a_combo": "",
+  "chan_b_combo": "",
+  "chan_c_combo": "",
+  "chan_d_combo": ""
+}
